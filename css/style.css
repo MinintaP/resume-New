@@ -1,12 +1,30 @@
-h4{
-  font-family: 'Mitr', sans-serif;
+.my-bg{
+ background-color: #ecebea; 
+ background-repeat: no-repeat;
+  
 }
 
+.my-font{
+  font-family: 'Noto Sans Thai', sans-serif;
+  font-size: 90px;
+  line-height:55px;
+}
+
+.my-font-two{
+  font-family: 'Noto Sans Thai', sans-serif;
+  font-size: 35px;
+}
+
+
+.my-text-rigth{
+  text-align:right;
+}
 
 p{
   font-family: 'Sarabun', sans-serif;
+  font-size: 18px;
 }
 
-.my-bg{
-  background-image: url("../images/พื้นหลัง3.jpg")
-}
+
+
+
