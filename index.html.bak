@@ -4,21 +4,18 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Resume หางานภาษาเกาหลี</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-
-      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
       crossorigin="anonymous">
     <link type="text/css" rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@700&amp;family=Sarabun:wght@200&amp;display=swap"
-
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@700&amp;family=Sarabun:wght@200&amp;display=swap"
       rel="stylesheet">
     <meta name="description" content="มีเป้าหมายในการทำงานที่สามารถใช้ทักษะทั้งด้านภาษาอังกฤษและภาษาเกาหลี รวมไปถึงทักษะการใช้โปรแกรมต่างๆ">
     <meta name="keywords" content="ภาษาเกาหลี,เกาหลี, korean, Korean Air, หางาน">
   </head>
-  <body class="my-bg"> 
+  <body class="my-bg">
     <div class="container ">
       <div class="row my-4">
         <div class=" col-md-8 col-lg-8 my-5">
@@ -27,83 +24,68 @@
         <div class=" col-md-3 col-lg-3 mt-5 "> <br>
           <p class="text-end "><a href="mailto:Mininta0601@gmail.com">Mininta0601@gmail.com</a></p>
         </div>
-        <div class=" col-md-1 col-lg-1 mt-5"> <img src="images/email.png" class="img-fluid d-none d-lg-block"><br>
+        <div class=" col-md-1 col-lg-1 mt-5"> <img src="images/Email.png" class="img-fluid d-none d-lg-block"><br>
         </div>
       </div>
       <div class="row">
         <div class="col-md-5 "><img src="images/Me2.png" class="img-fluid"></div>
         <div class="col-md-7 ">
           <ul class="nav nav-tabs" id="myTab" role="tablist">
-            <li class="nav-item" role="presentation"> <button class="nav-link active"
-
-                id="about-tab" data-bs-toggle="tab" data-bs-target="#about-tab-pane"
-
+            <li class="nav-item" role="presentation"> <button class="nav-link active"
+                id="about-tab" data-bs-toggle="tab" data-bs-target="#about-tab-pane"
                 type="button" role="tab" aria-controls="about-tab-pane" aria-selected="true">about
                 me</button> </li>
-            <li class="nav-item" role="presentation"> <button class="nav-link "
-
-                id="education-tab" data-bs-toggle="tab" data-bs-target="#education-tab-pane"
-
+            <li class="nav-item" role="presentation"> <button class="nav-link "
+                id="education-tab" data-bs-toggle="tab" data-bs-target="#education-tab-pane"
                 type="button" role="tab" aria-controls="education-tab-pane" aria-selected="false">education</button>
             </li>
-            <li class="nav-item" role="presentation"> <button class="nav-link "
-
-                id="skills-tab" data-bs-toggle="tab" data-bs-target="#skills-tab-pane"
-
+            <li class="nav-item" role="presentation"> <button class="nav-link "
+                id="skills-tab" data-bs-toggle="tab" data-bs-target="#skills-tab-pane"
                 type="button" role="tab" aria-controls="skills-tab-pane" aria-selected="false">skills</button>
             </li>
-            <li class="nav-item" role="presentation"> <button class="nav-link "
-
-                id="workings-tab" data-bs-toggle="tab" data-bs-target="#workings-tab-pane"
-
+            <li class="nav-item" role="presentation"> <button class="nav-link "
+                id="workings-tab" data-bs-toggle="tab" data-bs-target="#workings-tab-pane"
                 type="button" role="tab" aria-controls="workings-tab-pane" aria-selected="false">workings</button>
             </li>
           </ul>
           <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="about-tab-pane" role="tabpanel"
-
+            <div class="tab-pane fade show active" id="about-tab-pane" role="tabpanel"
               aria-labelledby="home-tab" tabindex="0"> <br>
               <h3 class="my-font-two "> เป้าหมาย</h3>
-              <p>
-                ฉันเป็นนักเรียนเอกสารสนเทศศาสตร์และบรรณารักษ์ศาสตร์ โทภาษาเกาหลี
-                จากมหาวิทยาลัยศิลปากร 
+              <p> ฉันเป็นนักเรียนเอกสารสนเทศศาสตร์และบรรณารักษ์ศาสตร์
+                โทภาษาเกาหลี จากมหาวิทยาลัยศิลปากร
                 จึงมีเป้าหมายในการทำงานที่สามารถใช้ทักษะทั้งด้านภาษาอังกฤษและภาษาเกาหลี
                 รวมไปถึงทักษะการใช้โปรแกรมต่างๆอีกด้วย ลักษณะนิสัยของฉันเป็น
                 คนมี มนุษย์สัมพันธ์ดี มีใจในการให้บริการ มีความอดทน
                 เมื่อทำงานจะทำอย่างละเอียด รอบคอบ สามารถแก้ไขปัญหาเฉพาะหน้าได้ดี
                 จึงมีความสนใจตำแหน่งงานพนักงานจำหน่ายตั๋วเครื่องบิน (Airline
                 Ticket Agent) ของสายการบิน Korean Air
-                ที่จะเป็นพื้นที่ที่สามารถใช้ภาษาเกาหลีเป็นภาษาหลักในการสื่อสารกับผู้โดยสาร รวมถึงภาษาอังกฤษ
+                ที่จะเป็นพื้นที่ที่สามารถใช้ภาษาเกาหลีเป็นภาษาหลักในการสื่อสารกับผู้โดยสาร
+                โดยฉันผ่านวิชาภาษาเกาหลีเบื้องต้น การเรียนการฟัง-พูดภาษาเกาหลี
+                และการเขียนภาษาเกาหลี รวมถึงภาษาอังกฤษ
                 และใช้คอมพิวเตอร์ในการทำงานลงทะเบียนการจองตั๋วเครื่องบินต่างๆ </p>
               <br>
               <h3 class="my-font-two "> ติดต่อ </h3>
-              <p><img src="images/%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C.png"
-
+              <p><img src="images/%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C.png"
                   style="width: 71px; height: 71px;"> 064-752-5836 </p>
-              <p> <img src="images/%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88.png"
-
+              <p> <img src="images/%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88.png"
                   style="width: 71px; height: 71px;"> 49/289 พหลโยธิน48แยก54
                 แขวงอนุสาวรีย์ เขตบางเขน กทม. </p>
             </div>
-            <div class="tab-pane fade" id="education-tab-pane" role="tabpanel" aria-labelledby="profile-tab"
-
+            <div class="tab-pane fade" id="education-tab-pane" role="tabpanel" aria-labelledby="profile-tab"
               tabindex="0"><br>
               <img src="images/bg_edu.jpg" class="img-fluid"> </div>
-            <div class="tab-pane fade" id="skills-tab-pane" role="tabpanel" aria-labelledby="contact-tab"
-
+            <div class="tab-pane fade" id="skills-tab-pane" role="tabpanel" aria-labelledby="contact-tab"
               tabindex="0"><br>
               <div class="my-font-two mx-auto text-center">skill </div>
               <div class="row">
-                <div class="col-md-4 mx-auto text-center"><img src="images/Procreat.png"
-
+                <div class="col-md-4 mx-auto text-center"><img src="images/Procreat.png"
                     style="width: 180px; height: 180px;"> <br>
                   Procreate</div>
-                <div class="col-md-4 mx-auto text-center"><img src="images/Photoshop.png"
-
+                <div class="col-md-4 mx-auto text-center"><img src="images/Photoshop.png"
                     style="width: 180px; height: 180px;"><br>
                   Photoshop</div>
-                <div class="col-md-4 mx-auto text-center"><img src="images/BlueGriffon.png"
-
+                <div class="col-md-4 mx-auto text-center"><img src="images/BlueGriffon.png"
                     style="width: 180px; height: 180px;"><br>
                   BlueGriffon</div>
               </div>
@@ -111,63 +93,46 @@
               <div class="my-font-two mx-auto text-center"> Language </div>
               <br>
               <div class="row">
-                <div class="col-md-4 mx-auto text-center"><img src="images/thai.jpg"
-
+                <div class="col-md-4 mx-auto text-center"><img src="images/thai.jpg"
                     class="rounded-4" style="width: 173px; height: 122px;"><br>
                   <br>
                   Thai</div>
-                <div class="col-md-4 mx-auto text-center"><img src="images/eng.jpg"
-
+                <div class="col-md-4 mx-auto text-center"><img src="images/eng.jpg"
                     class="rounded-4" style="width: 173px; height: 122px;"><br>
                   <br>
                   English</div>
-                <div class="col-md-4 mx-auto text-center"><img src="images/ko.jpg"
-
+                <div class="col-md-4 mx-auto text-center"><img src="images/ko.jpg"
                     class="rounded-4" style="width: 173px; height: 122px;"><br>
                   <br>
                   Korean</div>
               </div>
             </div>
-            <div class="tab-pane fade" id="workings-tab-pane" role="tabpanel" aria-labelledby="workings-tab"
-
+            <div class="tab-pane fade" id="workings-tab-pane" role="tabpanel" aria-labelledby="workings-tab"
               tabindex="0"> <br>
               <div class="row">
                 <div id="carouselExampleIndicators" class="carousel slide">
-                  <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
-
+                  <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
                       data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                    <button type="button" data-bs-target="#carouselExampleIndicators"
-
-                      data-bs-slide-to="1" aria-label="Slide 2"></button> <button
-
-                      type="button" data-bs-target="#carouselExampleIndicators"
-
-                      data-bs-slide-to="2" aria-label="Slide 3"></button> <button
-
-                      type="button" data-bs-target="#carouselExampleIndicators"
-
+                    <button type="button" data-bs-target="#carouselExampleIndicators"
+                      data-bs-slide-to="1" aria-label="Slide 2"></button> <button
+                      type="button" data-bs-target="#carouselExampleIndicators"
+                      data-bs-slide-to="2" aria-label="Slide 3"></button> <button
+                      type="button" data-bs-target="#carouselExampleIndicators"
                       data-bs-slide-to="3" aria-label="Slide 4"></button> </div>
                   <div class="carousel-inner">
-                    <div class="carousel-item active"> <img src="images/work1.jpg"
-
+                    <div class="carousel-item active"> <img src="images/work1.jpg"
                         class="d-block w-100" alt="..."> </div>
-                    <div class="carousel-item"> <img src="images/work2.jpg" class="d-block w-100"
-
+                    <div class="carousel-item"> <img src="images/work2.jpg" class="d-block w-100"
                         alt="..."> </div>
-                    <div class="carousel-item"> <img src="images/work3.jpg" class="d-block w-100"
-
+                    <div class="carousel-item"> <img src="images/work3.jpg" class="d-block w-100"
                         alt="..."></div>
-                    <div class="carousel-item"> <img src="images/work4.jpg" class="d-block w-100"
-
+                    <div class="carousel-item"> <img src="images/work4.jpg" class="d-block w-100"
                         alt="..."></div>
                   </div>
-                  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
-
-                    data-bs-slide="prev"> <span class="carousel-control-prev-icon"
-
+                  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide="prev"> <span class="carousel-control-prev-icon"
                       aria-hidden="true"></span> <span class="visually-hidden">Previous</span>
-                  </button> <button class="carousel-control-next" type="button"
-
+                  </button> <button class="carousel-control-next" type="button"
                     data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span> </button> </div>
@@ -177,10 +142,8 @@
         </div>
       </div>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-
-integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 crossorigin="anonymous"></script>
   </body>
 </html>
