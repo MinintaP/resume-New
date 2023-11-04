@@ -1,0 +1,30 @@
+.my-bg{
+ background-color: #ecebea; 
+ background-repeat: no-repeat;
+  
+}
+
+.my-font{
+  font-family: 'Noto Sans Thai', sans-serif;
+  font-size: 90px;
+  line-height:55px;
+}
+
+.my-font-two{
+  font-family: 'Noto Sans Thai', sans-serif;
+  font-size: 35px;
+}
+
+
+.my-text-rigth{
+  text-align:right;
+}
+
+p{
+  font-family: 'Sarabun', sans-serif;
+  font-size: 18px;
+}
+
+
+
+
