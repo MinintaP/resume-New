@@ -24,7 +24,7 @@
         <div class=" col-md-3 col-lg-3 mt-5 "> <br>
           <p class="text-end "><a href="mailto:Mininta0601@gmail.com">Mininta0601@gmail.com</a></p>
         </div>
-        <div class=" col-md-1 col-lg-1 mt-5"> <img src="images/Email.png" class="img-fluid d-none d-lg-block"><br>
+        <div class=" col-md-1 col-lg-1 mt-5"> <img src="images/email.png" class="img-fluid d-none d-lg-block"><br>
         </div>
       </div>
       <div class="row">
@@ -66,11 +66,10 @@
                 และใช้คอมพิวเตอร์ในการทำงานลงทะเบียนการจองตั๋วเครื่องบินต่างๆ </p>
               <br>
               <h3 class="my-font-two "> ติดต่อ </h3>
-              <p><img src="images/%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C.png"
-                  style="width: 71px; height: 71px;"> 064-752-5836 </p>
-              <p> <img src="images/%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88.png"
-                  style="width: 71px; height: 71px;"> 49/289 พหลโยธิน48แยก54
-                แขวงอนุสาวรีย์ เขตบางเขน กทม. </p>
+              <p><img src="images/Call.png" style="width: 71px; height: 71px;">
+                064-752-5836 </p>
+              <p> <img src="images/Address%20.png" style="width: 71px; height: 71px;">
+                49/289 พหลโยธิน48แยก54 แขวงอนุสาวรีย์ เขตบางเขน กทม. </p>
             </div>
             <div class="tab-pane fade" id="education-tab-pane" role="tabpanel" aria-labelledby="profile-tab"
               tabindex="0"><br>
